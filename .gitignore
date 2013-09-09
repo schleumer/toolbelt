@@ -3,3 +3,8 @@
 .settings/
 target/
 settings.json
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
